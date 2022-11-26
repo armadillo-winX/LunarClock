@@ -5,9 +5,9 @@
     <TargetFramework>net7.0-windows</TargetFramework>
     <Nullable>enable</Nullable>
     <UseWPF>true</UseWPF>
-    <Authors>Mashiro Inagi</Authors>
+    <Authors>Mashiro Tamane</Authors>
     <Product>Lunar Clock</Product>
-    <Copyright>Copyright © 2022 Mashiro Inagi</Copyright>
+    <Copyright>Copyright © 2022 Mashiro Tamane</Copyright>
     <AssemblyVersion>0.1.0</AssemblyVersion>
     <FileVersion>0.1.0.0</FileVersion>
     <Version>0.1.0</Version>
